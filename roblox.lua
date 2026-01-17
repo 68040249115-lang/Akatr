@@ -6,3 +6,4 @@ local function onTouched(Hit)
 	end
 end
 slide.Touched:Connect(onTouched)
+--สวัสดีค้าบบ แก้แล้วนะครับ
